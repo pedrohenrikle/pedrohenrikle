@@ -1,11 +1,11 @@
 <h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Klein</h1>
 <p align="left"></p>
 
-- 💻 Begginer Web Developer 
+- 💻 Junior Web Developer 
 
 - 📚 Studying web development in [Rocketseat](https://www.rocketseat.com.br/)
 
-- 🎮 In free time, love **Play Games, Read, Play Guitar and Learn something new**
+- 🎮 In free time, love **Play Games, Read, Play Piano and Learn something new**
 
 - 🏀 Sports (especially basketball) lover!
 
