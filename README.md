@@ -1,51 +1,77 @@
-<h1 align="left">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Klein</h1>
-<p align="left"></p>
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-- 💻 Web Developer Fullstack
+###
 
-- 📚 Studying Software Analysis and Development
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-klein/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/pedro_klein1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="mailto:pedro.klein.sl@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-- 🎮 In free time, love **Play Games, Read and Learn something new**
+###
 
-- 🏀 Sports (especially basketball) lover!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pedrohenrikle.pedrohenrikle&"  />
+</div>
 
+###
 
-<br><br>
-## 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=React&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodedotjs)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<h1 align="center">hey there 👋</h1>
 
-<!--
-<br><br>
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pedrohenrikle&show_icons=true&theme=vision-friendly-dark" alt="pedrohenrikle's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenrikle&layout=compact&theme=vision-friendly-dark" alt="pedrohenrikle's most languages"/>
-</p>
--->
+###
 
-<br><br>
+<h3 align="left">👩‍💻  About Me</h3>
 
-## Contact
+###
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/pedro_klein1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedro__klein1-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/pedro-klein/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-pedro--klein-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/pedro.klein1/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pedro.klein1-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="mailto:pedro.klein.sl@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pedro.klein.sl@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
-</a>
-</p>
+<p align="left">I'm Pedro from Brazil, RS <br><br>- 📚 I'm currently learning abou backend techs like Node, Java, C and Python<br>- ⚡ In my free time I love read and play basketball</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrohenrikle&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
