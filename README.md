@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Pedro from Brazil, RS <br><br>- 📚 I'm currently learning abou backend techs like Node, Java, C and Python<br>- ⚡ In my free time I love read and play basketball</p>
+<p align="left">I'm Pedro from Brazil, RS <br><br>- 📚 I'm currently learning about Node, Java, C and Python<br>- ⚡ In my free time I love read and play basketball</p>
 
 ###
 
