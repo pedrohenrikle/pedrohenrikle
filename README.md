@@ -26,36 +26,42 @@
 
 ###
 
-<p align="left">I'm Pedro from Brazil, RS <br><br>- 📚 I'm currently learning about Node, Java, C and Python<br>- ⚡ In my free time I love read and play basketball</p>
+<p align="left">I'm Pedro from Brazil, RS <br><br>- 📚 I'm currently learning about Node and algorithms<br>- ⚡ In my free time I love read and play basketball</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Techs</h3>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
+    <img width="12" />
+  <img src="https://icongr.am/devicon/nodejs-original.svg?size=120&color=83cd29" height="40" alt="nodejs logo"  />
+    <img width="12" />
+  <img src="https://icongr.am/devicon/express-original.svg?size=120&color=ffffff" height="40" alt="express logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+    <img width="12" />
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=120&color=ffffff" height="40" alt="postgresql logo"  />
+    <img width="12" />
+  <img src="https://icongr.am/simple/fastify.svg?size=120&color=ffffff&colored=false" height="40" alt="fastify logo"  />
+    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+    <img width="12" />
+  <img src="https://icongr.am/simple/markdown.svg?size=120&color=2ea4ff&colored=false" height="40" alt="markdown logo"  />
+    <img width="12" />
+  <img src="https://icongr.am/devicon/npm-original-wordmark.svg?size=120&color=ffffff" height="40" alt="npm logo"  />
 </div>
 
 ###
