@@ -28,7 +28,7 @@
 
 <p align="left">I'm always open to new opportunities and connections. If you are looking for collaborations or simply want to exchange ideas, don't hesitate to call me. Let's build something amazing together! 👊
 
-- 📚 Currently learning about C, Go and hardware <br></p>
+- 📚 Currently learning about C, Go and Rust <br></p>
 
 ###
 
