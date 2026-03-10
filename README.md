@@ -39,10 +39,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
     <img width="12" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=120&color=83cd29" height="40" alt="nodejs logo"  />
-    <img width="12" />
-  <img src="https://icongr.am/simple/fastify.svg?size=120&color=ffffff&colored=false" height="40" alt="fastify logo"  />
-    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
