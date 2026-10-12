@@ -1,56 +1,37 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/pedro-klein/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/pedro_klein1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="mailto:pedro.klein.sl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+# Hey there 👋 I'm Pedro Klein
 
-###
+I'm always open to new opportunities and connections. If you're looking for collaborations or just want to exchange ideas, feel free to reach out. Let's build something amazing together! 👊
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pedrohenrikle.pedrohenrikle&"  />
-</div>
+## 🔭 About Me
 
-###
+- 🎓 Studying Computer Engineering at Unisinos
+- 🧠 I like understanding how things work from the ground up, starting from first principles and moving toward the complex systems we rely on every day
 
-<h1 align="center">hey there 👋</h1>
+## 🛠 Tech Stack
 
-###
+**Languages**
 
-<h3 align="left">👩‍💻  About Me</h3>
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-###
+**Data & Streaming**
 
-<p align="left">I'm always open to new opportunities and connections. If you are looking for collaborations or simply want to exchange ideas, don't hesitate to call me. Let's build something amazing together! 👊
+![Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Confluent](https://img.shields.io/badge/-Confluent_Cloud-173361?style=for-the-badge&logo=confluent&logoColor=white)
+![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![SAP HANA](https://img.shields.io/badge/-SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 📚 Currently learning about C, Go and Rust <br></p>
+**DevOps & Observability**
 
-###
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/-Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<h3 align="left">🛠 Techs</h3>
+## 📫 Contact
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-     <img width="12" />
-  <img src="https://icongr.am/simple/c.svg?size=120&color=ffffff&colored=false" height="40" alt="c logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-    <img width="12" />
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size=120&color=ffffff" height="40" alt="postgresql logo"  />
-    <img width="12" />
-  <img src="https://icongr.am/simple/markdown.svg?size=120&color=2ea4ff&colored=false" height="40" alt="markdown logo"  />
-    <img width="12" />
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-klein/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pedro_klein1)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.klein.sl@gmail.com)
